@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "my-repo-from-remote",
+			"path": "my-repo-from-remote"
+		}
+	],
+	"settings": {}
+}
